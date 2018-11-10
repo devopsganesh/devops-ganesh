@@ -1,2 +1,12 @@
 10112018 github clone and git study
-123456789abcd
+
+$ git clone -s < remote repository path>
+$ git init
+$ Vi daily.txt
+$ git add .
+$ git remote -v
+$ git config user.name < ..... >
+$ git config email < ..... >
+$ git commit -am "..."
+$ git push -all---> it will ask github user name and password 
+
