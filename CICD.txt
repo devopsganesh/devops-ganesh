@@ -1,0 +1,12 @@
+continuous deployment goes one step further than continuous delivery, with this practice, every changes that passes in all stages of production pipeline is released to you customers. thars is no manual intervention and only failed test will prevent a new changes to be deployed to production.
+
+Continuous delivery is extention of continuous integration. ia make sure you can relase new changes to to your customer quickly and suitable way. this means that an automated your testing and release and deploy at any point time by clicking on button.
+
+continuous integration is a develpment practice, whic hrequirs developer to integrate code in to shared repository in several time at a day.each checkins verified by an automated build allowing to detect problems early.
+
+https://www.wisdomjobs.com/e-university/git-software-interview-questions.html
+
+https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807
+
+https://docs.docker.com/engine/reference/builder/#maintainer-deprecated
+
